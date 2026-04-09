@@ -19,8 +19,12 @@ This project is currently under active development as part of my **CySA+ (CS0-00
 ## 🎯 Why This Project Exists
 
 I'm Kelvin R. Tobias — Software Engineer and founder of Kelvinintech Consulting LLC.
-I'm actively preparing for my **CompTIA CySA+** certification (target: February 2027) and building
-this project series as hands-on evidence across every CySA+ exam domain.
+I'm actively preparing for my **CompTIA CySA+** certification with a target date of February 2027.
+
+The February 2027 deadline is intentional — earning CySA+ will satisfy the **Continuing Education Units (CEUs)
+required to maintain my active CompTIA Security+ certification**, keeping my credentials current
+while leveling up to the next tier of cybersecurity competency. Rather than taking standalone CEU courses,
+I'm building real projects that demonstrate hands-on mastery across every CySA+ exam domain.
 
 Each project is also upgraded with **ML/DL tooling** (PyTorch, scikit-learn, Transformers) to serve
 as an AI/ML portfolio parallel to my cybersecurity prep — supporting my path toward an
@@ -38,4 +42,4 @@ See all 15 projects: [kelvintechnical/SOC-Analyst-projects](https://github.com/k
 
 ## 🤝 Connect
 
-[🌐 kelvinintech.com](https://kelvinintech.com) · [𝕏 @kelvinintech](https://x.com/kelvinintech) · [GitHub @kelvintechnical](https://github.com/kelvintechnical)
+[🌐 kelvinintech.com](https://kelvinintech.com) · [GitHub @kelvintechnical](https://github.com/kelvintechnical)
